@@ -7,39 +7,20 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="230mm"
-   height="230mm"
-   viewBox="0 0 230 230"
+   width="192.722mm"
+   height="43mm"
+   viewBox="0 0 192.722 43"
    version="1.1"
-   id="svg8"
-   sodipodi:docname="antiflaggschiff_aktion.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   id="svg1276"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="ice4_brennend.svg"
+   inkscape:export-filename="/home/pajowu/code/svgs/antiflaggschiff/ice4_brennend.svg.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
-     id="defs2">
-    <circle
-       transform="rotate(-134.8377)"
-       r="100"
-       cy="-17.698317"
-       cx="-172.83087"
-       id="path817-5"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e426e4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <circle
-       transform="rotate(-134.8377)"
-       r="100"
-       cy="-17.698317"
-       cx="-172.83087"
-       id="path817-2"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e426e4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e426e4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path916-2"
-       cx="109.31322"
-       cy="135.03467"
-       r="95" />
-  </defs>
+     id="defs1270" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -47,19 +28,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75808877"
-     inkscape:cx="785.45178"
-     inkscape:cy="563.08927"
+     inkscape:zoom="0.35"
+     inkscape:cx="295.7893"
+     inkscape:cy="757.87446"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1916"
+     inkscape:window-width="956"
      inkscape:window-height="1033"
-     inkscape:window-x="0"
+     inkscape:window-x="960"
      inkscape:window-y="22"
      inkscape:window-maximized="0" />
   <metadata
-     id="metadata5">
+     id="metadata1273">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -74,22 +55,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-67)">
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c5c5c5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path916-5"
-       cx="138.87453"
-       cy="164.50795"
-       transform="matrix(-0.3014062,0.95349583,0.95349583,0.3014062,0,0)"
-       r="107.5" />
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c5c5c5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path916"
-       cx="-208.13571"
-       cy="-55.032024"
-       transform="rotate(-137.09783)"
-       r="92.5" />
+     transform="translate(0,-254)">
     <g
+       transform="matrix(1.0030348,0,0,1.0030348,-3.9534434,89.036421)"
        id="g1170">
       <g
          transform="matrix(0.97960813,0,0,0.97960813,25.523151,60.46536)"
@@ -470,27 +438,5 @@
         </g>
       </g>
     </g>
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#3e3e3e;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path815"
-       cx="115"
-       cy="182"
-       r="100" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="text920"><textPath
-         xlink:href="#path916"
-         id="textPath2447"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:'DB Head';-inkscape-font-specification:'DB Head';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-   id="tspan918">Antiflaggschiff</tspan></textPath></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="text970"><textPath
-         xlink:href="#path916-5"
-         id="textPath2443"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.16666603px;font-family:'DB Head';-inkscape-font-specification:'DB Head Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-   id="tspan968">Aktion</tspan></textPath></text>
   </g>
 </svg>
