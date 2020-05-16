@@ -6,8 +6,8 @@ This repo contains a collection of svgs I created for jokes etc.
 
 Everyone hates the DB's ICE4, so why not create a sticker to show your antipathy.
 
-![Antiflaggschiff Aktion](antiflaggschiff/antiflaggschiff_aktion.svg.png]
-![Burning ICE 4](antiflaggschiff/ice4_brennend.svg.png]
+![Antiflaggschiff Aktion](antiflaggschiff/antiflaggschiff_aktion.svg.png)
+![Burning ICE 4](antiflaggschiff/ice4_brennend.svg.png)
 
 ### Mastodon Emoji
 
